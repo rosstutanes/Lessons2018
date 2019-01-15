@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.top {
+	background-color: gray;
+	padding: 50px 0;
+	text-align: center;
+	position: relative;
+	border-radius: 5px;
+}
+
+.logo {
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: absolute;
+	top: 20px;
+
+}
+
+.body {
+	margin: 20px 40px;
+	padding: 10px;
+	background-color: gray;
+	text-align: center;
+}
+
+.bodypic {
+	border-radius: 5px;
+	width: 100%
+}
+
+.bodyhead1 {
+	left: 5px;
+	text-align: left;
+	padding: 10px;
+}
+
+.bodyp1 {
+	left: 5px;
+	text-align: left;
+	padding: 10px;
+
+}
+
+.bktop {	
+	padding: 50px;
+	bottom: 100px;
+	left: 150px;
+}
+
+.bottom {
+	background-color: gray;
+	padding: 50px 0;
+}

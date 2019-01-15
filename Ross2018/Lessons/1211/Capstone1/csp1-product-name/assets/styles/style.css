@@ -1,0 +1,20 @@
+
+.jumbotron {
+	text-align: center;
+	min-height: 100vh;
+	background: url(../images/bg-index.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	font-family: 'Unlock', cursive;
+	padding:  10px auto;
+}
+
+
+.thumb {
+	cursor: pointer;
+}
+
+.gallerypx {
+	width: 100%;
+}

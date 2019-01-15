@@ -1,0 +1,145 @@
+/*set to default*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+/*Header*/
+
+header {
+	background: lightgray;
+	height: 220px;
+	margin: 40px auto;
+
+}
+
+.header1 {
+	text-align: center;	
+}
+.header2 {
+	text-align: center;	
+}
+
+.container {
+	margin: 0 30px;
+}
+
+nav {
+	
+	margin-top: 120px
+	
+
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+.textlink {
+	float: left;
+}
+
+.iconlink {
+	float: right;
+}
+
+.clear:after {
+	content: "";
+	clear: both;
+	display: block;
+}
+
+.txt {
+	float: left;
+	margin: 0 5px;
+	padding: 10px;
+}
+
+.ahead {
+	text-decoration: none;
+}
+
+
+.icon {
+	float: left;
+	margin: 0 5px;
+	padding: 10px;
+
+}
+
+.box1 {
+	border:	2px solid black;
+	height: 280px;
+	margin-bottom: 20px;
+
+}
+
+.box2{
+	border:	2px solid black;
+	height: 500px;
+
+}
+
+.content1box1 {
+	margin: 0 5px;
+
+}
+
+#hbox1 {
+	text-align: center;
+}
+
+.iconbox1 {
+	float: left;
+	padding: 10px;
+	
+}
+
+.pbox1 {
+	margin: 10px 20px;
+	padding: 10px;
+}
+
+
+.lower2box1 {
+	float: right;
+	padding: 10px;
+	margin: 10px 20px;
+
+
+
+}
+
+.lower1box1 {
+	float: left;
+	margin: 10px 20px;
+
+}
+
+.readmore {
+	list-style-type: none;
+}
+.content2box1  {
+	float: left;
+	margin: 10px 20px 10px;
+	padding-left: 100px;
+}
+
+.c2box1line1 {
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+.content2box2 {
+	float: left;
+	margin-top: 0 5px;
+	padding: 10px;
+}

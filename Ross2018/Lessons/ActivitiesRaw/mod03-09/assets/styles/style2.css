@@ -1,0 +1,49 @@
+/*set to default*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/*---*/
+
+/*Side Bar*/
+.sidebar {
+	background: lightgreen; 
+	position: fixed;
+	height: 100vh;
+	width:  150px;
+}
+
+
+
+/*---*/
+/*.maincontainer {
+	background: lightblue;
+	min-height: 100vh;
+	width: 100%;
+	position: absolute;
+	border-style: dashed;
+	margin-left: : 150;*/
+	
+
+
+}
+
+.sidebarmenu {
+
+	margin: 20px 1.16%;
+	/*position: fixed;*/
+ 
+}
+
+.sidebarlink {
+	position: relative;
+	top: 150px;
+
+}
+
+.link {
+	position: absolute;
+}
+
+

@@ -1,0 +1,216 @@
+/*Default*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*Background*/
+nav,
+footer{
+	background-image: url(../images/nav.jpg);
+}
+
+#home,
+#about,
+#projects,
+#skills,
+#contact {
+	background-image: url(../images/home.jpg);
+}
+
+#home,
+#projects,
+#skills,
+#contact,
+#home-container,
+#about {
+	height: 100vh;
+}
+
+#about, {
+	min-height: 100vh;
+	font: color black;
+
+}
+
+.d-flex {
+	height: 100%;
+	width: 100%;
+}
+
+#line1 {
+	height: 50px;
+	margin-top: 5px;
+}
+
+
+
+
+
+/*.hmcontainer {
+	background: rgba(0,0,0,0.5);
+}
+*/
+
+
+
+
+/*Banner*/
+#button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #323B43;
+  border: none;
+  border-radius:  15px;
+  box-shadow: 0 9px #999;
+}
+
+#button:hover {
+	background-color: #353C3F;
+}
+
+#button:active {
+  background-color: #93B4D8;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+/*About*/
+.about-grids {
+	margin-top: 60px;
+}
+
+.about {
+	padding: 80px 0;
+
+}
+
+.about-info h3 {
+	font-family: 'Jockey One', sans-serif;
+	margin: 0;
+	color: #000000;
+	font-size: 44px;
+	text-align: center;
+	font-weight: 400;
+}
+
+.about-info h4 {
+	text-align: center;
+	font-size: 17px;
+	color: #000000;
+	font-weight: 600;
+	margin: 10px 0 16px 0;
+	font-style: italic;
+}
+
+.about-info p {
+	text-align: center;
+	font-size: 14px;
+	color: #000000;
+	width: 71%;
+	margin: 0 auto;
+	line-height: 1.8em;
+}
+
+.about-grid h4 {
+	font-family: 'Jockey One', sans-serif;
+	text-align: left;
+	color: #000000;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+
+.about-grid p {
+	text-align: left;
+	color: #000000;
+	font-size: 14px;
+	line-height: 1.8em;
+	padding: 2em 0 0;
+}
+
+
+/*Projects*/
+
+.projects-info h3 {
+	font-family: 'Jockey One', sans-serif;
+	margin: 0;
+	color: #000000;
+	font-size: 44px;
+	text-align: center;
+	font-weight: 400;
+}
+
+
+/*Skills*/
+
+.skills-info h3,
+.contact-info h3 {
+	font-family: 'Jockey One', sans-serif;
+	margin: 0;
+	color: #000000;
+	font-size: 44px;
+	text-align: center;
+	font-weight: 400;
+}
+
+/*Contact*/
+ #comment {
+ 	height: 250px;
+}
+
+
+
+.sendbtn {
+  border: none;
+  color: white;
+  padding: 2px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.btn5 {
+  background-color: white;
+  color: black;
+  border: 1px solid #D3D3D3;
+}
+
+.btn5:hover {
+  background-color: #555555;
+  color: white;
+}
+
+iframe {
+	border:0;
+}
+
+
+/*Footer*/
+
+footer {
+	font-weight: 200;
+}
+
+
+.pfooter {
+	color: white;
+	font-weight: 200;
+
+}
+
+
+
+

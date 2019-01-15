@@ -1,0 +1,71 @@
+/*Adjacent Sibling Selector*/
+
+div + h3 {
+	background-color: lavender;
+}
+
+p + span {
+	background-color: brown;
+}
+
+div ~ p {
+	background-color: olive;
+}
+
+div > p {
+	background-color: gold;
+}
+
+div p {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+#home:link {
+	font-size: 30px;
+	text-decoration: none;
+}
+
+#home:visited {
+	color: lime;
+}
+
+[name="user"]:focus {
+	background-color: green;
+}
+
+.img-cont {
+height: 250px;
+
+}
+img	{
+	width: 100px;
+}
+
+img:hover {
+	width: 250px;
+}
+
+[type="button"]:active {
+	color: orange;
+	background-color: red;
+
+}
+#register:active {
+	font-size: 35px;
+}
+/*#logout {
+	background-color: blue;
+}*/
+
+
+[href="logout"]{
+	background-color: red;
+}
+
+.navlink {
+	background-color: green;
+}
+a {
+	background-color: yellow;
+}

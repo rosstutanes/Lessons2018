@@ -1,0 +1,81 @@
+/** {
+  margin: 0;
+}
+div {
+  padding: 20px;
+}
+.grandparent {
+  background: skyblue;
+/*  position: fixed;*/
+/*}
+.parent {
+  background: pink;
+}*/
+/*/*
+p {
+	margin-left: 50px;
+	/*padding-left: 50px;*/
+	/*background-color: #ccc;
+	margin-top: -20px;*/
+	/*margin-bottom: -30px;*
+	*/
+/*}
+input[type="submit"] {
+	margin-left: 20px;
+	}
+
+
+strong {
+	background-color: yellow;
+	position: fixed;
+	top: 100px;
+	left: 100px;*/
+/*	position: absolute;
+	top: 10px;
+	left: 30px;*/
+/*sition: relative;
+	top: 100px;
+	left: 100px;*/
+
+
+/*strong {
+	top: 100px;
+	left: 100px;
+}*/
+
+/*.parent-tag {
+	position: relative;
+	border: 1px dashed red;
+}*/
+
+#head1 {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 10px;
+  width: 100%;
+  background-color: grey;
+  z-index: 1;
+}
+
+/*p {
+  position: relative;
+  top: 70px;
+  left: 70px;
+  height: 1000px;
+  background: #efefef;
+}*/
+
+
+.relative {
+	position: relative;
+	background: #efefef;
+}
+
+.normal {
+	position: relative;
+	 top: 0px;
+	 left: 0px;
+	 z-index: 1;
+}
